@@ -1,2 +1,11 @@
-# TrackerPeliculas
-Tracker que tiene la funcion de encontrar datos de una pelicula con el nombre con OMDb API
+Ejemplos basicos de python
+
+Necesitas tener instalado Python
+
+Despues lo compilas con
+
+python programa.py
+
+o
+
+python3 programa.py
